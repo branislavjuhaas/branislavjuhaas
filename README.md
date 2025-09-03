@@ -1,1 +1,1 @@
-![Branislav Juhás](Assets/juhaas.webp)
+![Branislav Juhás](assets/juhaas.png)
